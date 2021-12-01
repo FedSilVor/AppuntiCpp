@@ -1,5 +1,5 @@
 //Copyright: FedSilVor 2021
-//
+//Questa è una calcolatrice capace di compiere più funzioni matematiche e di loggare i risultati in un file .txt
 #include <iostream>
 #include <math.h>
 #include <Windows.h>
