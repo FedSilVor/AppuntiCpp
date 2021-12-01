@@ -1,6 +1,5 @@
 //Copyright: FedSilVor 2021
-
-//praticamente ho riscritto la versione 3 in C++ perché è più facile aggiungere calcoli più complessi
+//
 #include <iostream>
 #include <math.h>
 #include <Windows.h>
