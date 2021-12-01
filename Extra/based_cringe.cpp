@@ -1,5 +1,5 @@
 //Copyright: FedSilVor 2021
-//
+//Printerà "cringe" o "based" in maniera randomica e ti dirà se sei più cringe o based (sì è una cazzata scusatemi mi vergogno)
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
