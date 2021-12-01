@@ -1,3 +1,5 @@
+//Copyright: FedSilVor 2021
+//
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
