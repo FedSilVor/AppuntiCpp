@@ -1,5 +1,5 @@
 //Copyright: FedSilVor 2021
-//
+//Piccolo giochino dove devi indovinare un numero random da 1 a 10, con la possibilità di selezionare il numero di tentativi disponibili.
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
