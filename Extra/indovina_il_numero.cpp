@@ -1,5 +1,5 @@
-//Piccolo extra per aver seguito i miei appunti su C++, grazie per avermi supportato <3
 //Copyright: FedSilVor 2021
+//
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
