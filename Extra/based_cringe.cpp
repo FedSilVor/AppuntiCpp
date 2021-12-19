@@ -39,5 +39,7 @@ int main(){
         cout << "You are based and cringe!" << endl;
     }
     
+    system("pause");
+    
     return 0;
 }
