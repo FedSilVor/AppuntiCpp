@@ -30,6 +30,9 @@ int main(){
             Cringe++;
         }
     }
+    
+    cout << "Based: " << Based << endl;
+    cout << "Cringe " << Cringe << endl;
 
     if(Based > Cringe){
         cout << "You are mostly based!" << endl;
