@@ -14,6 +14,10 @@ int main(){
     cin >> NumeroMele;
     
     cout << "" << NomePersonaggio << " possiede "<< NumeroMele <<" mele!" << endl; //Printerà il risultato con l'input che abbiamo scelto!
+    
+    /*
+    Risultato: "[NomePersonaggio] possiede [NumeroMele] mele!"
+    */
 
     return 0;
 }
