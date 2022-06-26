@@ -58,7 +58,11 @@ int main(){
             cin >> CinNum;
             Tentativi++;
             if(CinNum != NumeroSegreto && Tentativi < Vite){
-                cout << "Non hai indovinato, riprova!" << endl;
+                if(CinNum > NumeroSegreto){
+                    cout << "Il numero e' piu' basso, riprova!" << endl;
+                }else{
+                    cout << "Il numero e' piu' alto, riprova!" << endl;   
+                }
             }
         } else{
             Limite = true;
